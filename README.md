@@ -7,6 +7,7 @@
 **Site responsivo, criado com o intuíto de treinar o posicionamento de elementos com flexbox.**
 
 <br>
+
 ### Design
 
 ![This is a alt text.](/img/FlexBlog_1.png "FlexBlog 1")
